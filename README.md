@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! My name is Treyana Rose</h2>
 
 ###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ## 🚀 About Me
 I am a passionate learner and still learning to be a proficient full-stack web developer. I'm interested in utilizing technology to benefit others because I think I can help anybody, anywhere, in any industry, using my knowledge and skills. I thus desire to never give up on my job for these kinds of reasons. Software development and project management are two more passions of mine. In my spare time, I enjoy painting, writing poetry, reading, and doing yoga.
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
