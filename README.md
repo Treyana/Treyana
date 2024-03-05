@@ -2,7 +2,8 @@
 
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-# 🚀 About Me
+###
+# 🚀 About Me:
 I am a passionate learner and still learning to be a proficient full-stack web developer. I'm interested in utilizing technology to benefit others because I think I can help anybody, anywhere, in any industry, using my knowledge and skills. I thus desire to never give up on my job for these kinds of reasons. Software development and project management are two more passions of mine. In my spare time, I enjoy painting, writing poetry, reading, and doing yoga.
 
 
