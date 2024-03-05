@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Treyana Rose</h2>
 
-###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
